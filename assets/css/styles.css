@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "Poppins";
+  font-weight: 600;
+  src: url("../fonts/Poppins-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-weight: 400 700;
+  src: url("../fonts/OpenSans-VariableFont_wdth\,wght.ttf");
+}
+
+:root {
+  --accent-color: hsl(322, 100%, 66%);
+  --primary-base: hsl(193,100%, 96%);
+  --primary-dark: hsl(192, 100%, 9%);
+  --primary-font: hsl(208, 11%, 55%);
+
+  --fs-reg:1.125rem;
+}
+
+@layer reset {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  ul,
+  ol,
+  figure {
+    margin: 0;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-weight: 600;
+  }
+
+  img {
+    max-width: 100%;
+    display: block;
+  }
+}
+
+@layer base {
+  html {
+    font-family:"Open Sans";
+  }
+
+  body {
+    color: black;
+    font-size: var(--fs-reg);
+  }
+
+  h1,
+  h2,
+  h3 {
+    color: var(--heading-foreground, black);
+  }
+
+  p {
+    color: var(heading-paragraph-foregrond, var(--primary-font));
+  }
+  
+  button {
+    width: var(button-main-width, 3.125rem);
+    background-color: var(--accent-color);
+    color: white;
+    border-radius: 20px;
+  }
+}
+
+
+
+
