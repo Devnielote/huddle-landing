@@ -28,11 +28,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-<div style="display:flex; gap:10px;">
-  <img src="./assets/images/mobile_view1.png" alt="Mobile view 1" width="49%">
-  <img src="./assets/images/mobile_view2.png" alt="Mobile view 2" width="49%">
-<div>
-
+ ![](./assets/design/mobile-design.jpg)
  ![](./assets/images/desktop_view.png) 
 
 ### Links
