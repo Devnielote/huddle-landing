@@ -80,7 +80,7 @@
   
   button {
     width: var(--button-width, 16rem);
-    height: var(--button-height, 2.5rem);
+    height: var(--button-height, 3.5rem);
     margin-block-start: var(--button-top-margin, 2rem);
     background-color: var(--button-foreground, var(--accent-color));
     color: var(--button-text-color, white);
@@ -88,6 +88,11 @@
     border: none;
     font-size: .8rem;
     font-weight: 600;
+  }
+
+  button:hover {
+    cursor: pointer;
+    opacity: 70%;
   }
 
   img {
@@ -325,6 +330,10 @@
       a {
         font-size: 1.2rem;
       }
+
+      a:hover {
+          text-decoration: underline;
+        }
     }
   }
 
@@ -343,6 +352,11 @@
 
     a {
       font-size: 1.5rem;
+
+      ion-icon:hover {
+          cursor: pointer;
+          color: var(--accent-color);
+      }
     }
   }
 
