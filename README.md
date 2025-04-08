@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution: [Solution URl](https://www.frontendmentor.io/solutions/responsive-static-landing-page-usign-html5-and-css-BppkGLDqjr)
+- Solution: [Solution URL](https://www.frontendmentor.io/solutions/responsive-static-landing-page-usign-html5-and-css-BppkGLDqjr)
 - Live Site: [Live site URL](https://devnielote.github.io/huddle-landing/)
 
 ## My process
