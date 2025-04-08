@@ -28,13 +28,12 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
- ![](./assets/design/mobile-design.jpg)
  ![](./assets/images/desktop_view.png) 
 
 ### Links
 
-- Solution URL: [Solution URl](https://www.frontendmentor.io/solutions/responsive-static-landing-page-usign-html5-and-css-BppkGLDqjr)
-- Live Site URL: [Live site URL](https://devnielote.github.io/huddle-landing/)
+- Solution: [Solution URl](https://www.frontendmentor.io/solutions/responsive-static-landing-page-usign-html5-and-css-BppkGLDqjr)
+- Live Site: [Live site URL](https://devnielote.github.io/huddle-landing/)
 
 ## My process
 
