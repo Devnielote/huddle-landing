@@ -4,7 +4,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ## Table of contents
 
-[-](-) [Overview](#overview)
+- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -29,11 +29,11 @@ Users should be able to:
 
 ### Screenshot
 <div style="display:flex; gap:10px;">
-  <img src="./assets/images/mobile-view1.png" alt="Mobile view 1" width="49%">
-  <img src="./assets/images/mobile-view2.png" alt="Mobile view 2" width="49%">
+  <img src="./assets/images/mobile_view1.png" alt="Mobile view 1" width="49%">
+  <img src="./assets/images/mobile_view2.png" alt="Mobile view 2" width="49%">
 <div>
 
- [](./assets/images/desktop_view.png) 
+ ![](./assets/images/desktop_view.png) 
 
 ### Links
 
